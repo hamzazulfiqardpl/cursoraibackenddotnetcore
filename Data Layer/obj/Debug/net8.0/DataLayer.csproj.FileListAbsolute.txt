@@ -1,0 +1,12 @@
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\bin\Debug\net8.0\DataLayer.deps.json
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\bin\Debug\net8.0\DataLayer.dll
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\bin\Debug\net8.0\DataLayer.pdb
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\obj\Debug\net8.0\DataLayer.dll
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\obj\Debug\net8.0\DataLayer.pdb
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\obj\Debug\net8.0\ref\DataLayer.dll
+D:\Learning Tutorials\CursorAIChallange\CursorTask\notes-app-task-api\NotesAppBkend\Data Layer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
